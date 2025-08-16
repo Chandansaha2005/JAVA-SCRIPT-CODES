@@ -1,16 +1,28 @@
-a = 10;//no need to define datatype 
-console.log(a)
-a = 10.546354;//no need to define datatype 
-console.log(a)
-a = "Chandan saha";//no need to define datatype 
-console.log(a)
-b = 10
-console.log(b * 5)
-b += 5
-console.log(b)
-b *= 5
-console.log(b)
+// Variable declaration without datatype
+a = 10; // Assigning integer value
+console.log(a); // Output: 10
 
-age = 20
-console.log("My age is "+ age+" ")
-console.log("I'm "+age+" Years old")
+a = 10.546354; // Assigning float value
+console.log(a); // Output: 10.546354
+
+a = "Chandan saha"; // Assigning string value
+console.log(a); // Output: Chandan saha
+
+// Basic arithmetic operations
+b = 10; // Assigning value
+console.log(b * 5); // Output: 50 (multiplication)
+
+b += 5; // Incrementing value by 5 (b = b + 5)
+console.log(b); // Output: 15
+
+b *= 5; // Multiplying value by 5 (b = b * 5)
+console.log(b); // Output: 75
+
+// Variable assignment and calculation
+c = b + 5; // Assigning calculated value
+console.log(a, b, c); // Output: Chandan saha 75 80
+
+// String concatenation
+age = 20; // Assigning age value
+console.log("My age is " + age + " "); // Output: My age is 20 
+console.log("I'm " + age + " Years old"); // Output: I'm 20 Years old
