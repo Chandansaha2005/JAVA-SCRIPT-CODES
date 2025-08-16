@@ -26,3 +26,4 @@ console.log(a, b, c); // Output: Chandan saha 75 80
 age = 20; // Assigning age value
 console.log("My age is " + age + " "); // Output: My age is 20 
 console.log("I'm " + age + " Years old"); // Output: I'm 20 Years old
+console.log("I", "born", "in the year", 2005)//I born in the year 2005
