@@ -16,7 +16,11 @@ print(x.isSingle)
 
 print(x)
 print(x["name"])
-print(x.age)
-print(x.percentage)
-print(x.isSingle)
+print(x["age"])
+print(x["percentage"])
+print(x["isSingle"])
+// we can also change their values
+x.age=20
+x.name="CKS"
+print(x)
 
