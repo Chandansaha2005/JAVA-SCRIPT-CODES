@@ -8,3 +8,8 @@ for (i = 0; i < n; i++) print(arr[i])
 
 print("first element = ", arr[0])
 print("last element = ", arr[4])
+arr2 = {
+    date: "20/02/25"
+    , time: "5.30"
+}
+print(arr2)
