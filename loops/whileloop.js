@@ -1,3 +1,4 @@
 let print = console.log
-for (var i = 1; i <= 10; i++)
-    print(i)
+let i = 1
+while (i <= 10)
+    print(i++)
