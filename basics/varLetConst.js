@@ -12,3 +12,10 @@ c = 60
 console.log(c)
 let clog = console.log
 clog("This is working")
+//Redefination 
+var g = 500
+clog(g)
+var g = 9// no error
+clog(g)
+const g = 800//error
+clog(g)
