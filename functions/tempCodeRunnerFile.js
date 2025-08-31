@@ -1,1 +1,4 @@
-(Math.random() * 10) - (Math.random() * 10)
+function fun(x, y) {
+//     console.log(x - y)
+// }
+// fun(product(1, 4, 7), 7)
