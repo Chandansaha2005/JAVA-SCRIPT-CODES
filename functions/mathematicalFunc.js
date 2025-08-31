@@ -1,0 +1,10 @@
+let print = console.log
+print(Math.floor(46.5))
+print(Math.ceil(46.6))
+print(Math.max(4, 5))
+print(Math.min(2, 5))
+print(Math.random())
+print(Math.abs(-7))
+print(Math.pow(7, 8))
+print(Math.sqrt(1024))
+print(22/7)
