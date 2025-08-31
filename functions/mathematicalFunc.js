@@ -14,3 +14,8 @@ for (let i = 0; i < 100; i++)
     print(Math.floor(((Math.random() * 10) - (Math.random() * 10))))
 for (let i = 0; i < 100; i++)
     print(Math.floor(Math.random() * 10))
+
+if (Math.random() > 0.5) {
+    print("hello")
+}
+else print("bye")
