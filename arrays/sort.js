@@ -24,4 +24,6 @@ print(arr.sort((a, b) => b - a))
 // .sort() gives wrong and for [-2,4,-9,3] ->>> [-2,-9,3,4]
 arr = [-2, 4, -9, 3]
 print(arr.sort())
-print(arr.sort((a, b) => a - b))
+print(arr.sort((a, b) => a - b))// proper actual sorting
+
+print(arr.sort((a, b) => Math.abs(a) - Math.abs(b)))
