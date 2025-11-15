@@ -1,5 +1,5 @@
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> JAVA-SCRIPT-CODES OF CKS  
- 
+
 Welcome to my JavaScript learning repository!  
 
 This repo is a collection of **JavaScript programs and practice codes** that I’m writing as part of my coding journey. My aim is to **track my progress**, improve step by step, and help beginners learn JavaScript from scratch.  
